@@ -4,8 +4,10 @@
 ## 1. **Inspecting the Dataset**:
 
 ### a. Initial Glance:
-- Started my initial EDA using a ProfileReport from ydata (10/25/23)
- 
+- Load the dataset.
+- View the first few rows to understand the structure.
+- Check the number of rows, columns, and data types.
+
 ### b. Summary Statistics:
 - For numerical data: mean, median, min, max, standard deviation.
 - For categorical data: unique values, count of each value.
