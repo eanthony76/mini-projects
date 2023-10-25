@@ -1,0 +1,6 @@
+Label		Description
+year		Yearly observation date.
+qtr 		Quarterly observation date, end of period.
+cbsa 		5-digit U.S. Core Based Statistical Area(CBSA) code.
+low		Lower bound of Debt-to-Income ratio category.
+high		Upper bound of Debt-to-Income ratio category.
