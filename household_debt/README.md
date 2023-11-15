@@ -13,6 +13,7 @@
 ### c. Missing Values:
 - Largest missing values in "high" column
 - Going to impute these missing cells with the mean of the previous three years and the next found value for that given county. (11/15/23)
+- Having a difficult time imputing the values. Continues to say I have missing values, though I don't know how.
 
 ### d. Visualization:
 - YData ProfileReport does this automatically
