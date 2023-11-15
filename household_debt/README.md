@@ -11,13 +11,11 @@
 - For categorical data: unique values, count of each value.
 
 ### c. Missing Values:
-- Check for any missing values.
-- Note down columns with a high percentage of missing values.
+- Largest missing values in "high" column
+- Going to impute these missing cells with the mean of the previous three years and the next found value for that given county. (11/15/23)
 
 ### d. Visualization:
-- Histograms for numerical data.
-- Bar plots for categorical data.
-- Correlation plots or heatmaps for numerical data.
+- YData ProfileReport does this automatically
 
 ## 2. **Identify Potential Problems or Questions**:
 
